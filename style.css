@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+
+}
+
+header {
+    background-color: rgb(37, 103, 189);
+    color: aliceblue;
+    padding: 25px;
+    text-align: center;
+    font-family: Verdana;
+}
+
+header h1 {
+    width: 100%;
+}
+
+header input {
+    border: none;
+    border-radius: 10px;
+}
