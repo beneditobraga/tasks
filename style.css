@@ -6,24 +6,26 @@ body {
 header {
     background-color: rgb(37, 103, 189);
     color: aliceblue;
-    padding: 25px;
+    padding: 23px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 header h1 {
     width: 100%;
-    font-size: 45px;
+    font-size: 55px;
 }
 
 header input {
     border: none;
     border-radius: 10px;
-    padding: 10px;
+    padding: 13px;
     width: 62%;
     font-size: 14px;
 }
 
-header span{
+header img{
+    width: 4%;
+    margin-bottom: -16px;
     
 }
